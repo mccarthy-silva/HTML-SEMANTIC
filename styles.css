@@ -29,18 +29,7 @@ header h1{
 .banner img{
   max-width: 100%;
 }
-.banner .welcome{
-  background:#FEB614;
-  color: white;
-  padding: 30px;
-  font-size: 60px;
-  position: absolute;
-  left: 0;
-  top: 30%;
-} 
-.banner .welcome span{
-  font-size: 1.4em;
-}
+
 nav{
   background: #F4F4F4;
   padding: 20px;
